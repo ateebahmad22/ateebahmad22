@@ -42,15 +42,15 @@ I’m currently working on:
 
 ### ⚙️ GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AteebAhmad298&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AteebAhmad298&theme=tokyonight" alt="GitHub streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ateebahmad22&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ateebahmad22&theme=tokyonight" alt="GitHub streak" height="160"/>
 </p>
 
 ---
 
 ### 🧩 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AteebAhmad298&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ateebahmad22&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -62,9 +62,9 @@ I love coding at night 🌙 and building creative web apps that blend design wit
 
 ### 👁️‍🗨️ Profile Visitors
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AteebAhmad298&label=Profile%20views&color=00ffff&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ateebahmad22&label=Profile%20views&color=00ffff&style=flat" alt="profile views" />
 </p>
 
 ---
 
-⭐ From [Ateeb Ahmad](https://github.com/AteebAhmad298)
+⭐ From [Ateeb Ahmad](https://github.com/ateebahmad22)
