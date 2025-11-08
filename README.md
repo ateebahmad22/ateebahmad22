@@ -15,7 +15,7 @@
 
 ### 🌐 Connect with me  
 <p align="left">
-  <a href="https://www.instagram.com/ateebahmad298" target="_blank">
+  <a href="https://www.instagram.com/_igteddy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://www.linkedin.com/in/ateeb-ahmad" target="_blank">
