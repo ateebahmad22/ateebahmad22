@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/_igteddy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/ateeb-ahmad" target="_blank">
+  <a href="https://www.linkedin.com/in/-ateebahmad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
