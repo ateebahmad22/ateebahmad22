@@ -1,76 +1,99 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./banner.svg?v=1">
-  <source media="(prefers-color-scheme: light)" srcset="./banner-light.svg?v=1">
-  <img src="./banner.svg?v=1" width="100%" alt="Ateeb Ahmad Banner">
-</picture>
-
-# 👋 Hey, I'm Ateeb Ahmad
+# Hi 👋, I'm Ateeb Ahmad
 
 ### 💻 Software Developer
 
-<img src="./lanyard.svg?v=1" width="250" alt="Lanyard">
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-ateebahmad22-181717?style=for-the-badge&logo=github)](https://github.com/ateebahmad22)
-[![Email](https://img.shields.io/badge/Email-ateebahmad298@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ateebahmad298@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=ateebahmad22&style=for-the-badge&color=ff4da6)](https://github.com/ateebahmad22)
-
-</div>
+- 🌍 **Location:** Varanasi, Uttar Pradesh, India
+- 📧 **Email:** ateebahmad298@gmail.com
+- 💻 **GitHub:** https://github.com/ateebahmad22
+- 🌱 Currently learning **AI & Machine Learning**
+- 🚀 MERN Stack Developer
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
 ```javascript
 const ateeb = {
   name: "Ateeb Ahmad",
   role: "Software Developer",
+  location: "Varanasi, India",
   github: "ateebahmad22",
-  email: "ateebahmad298@gmail.com",
-  location: "Varanasi, Uttar Pradesh, India",
 
-  code: [
-    "JavaScript",
-    "Python",
-    "Java",
-    "C",
-    "C++"
-  ],
+  frontend: ["HTML5", "CSS3", "JavaScript", "React"],
 
-  frontend: [
-    "React",
-    "HTML5",
-    "CSS3",
-    "JavaScript"
-  ],
+  backend: ["Node.js", "Express"],
 
-  backend: [
-    "Node.js",
-    "Express.js",
-    "REST API"
-  ],
+  database: ["MongoDB", "MySQL", "SQL"],
 
-  database: [
-    "MongoDB",
-    "MySQL",
-    "SQL"
-  ],
+  languages: ["JavaScript", "Python", "Java", "C", "C++"],
 
-  tools: [
-    "Git",
-    "GitHub",
-    "VS Code",
-    "Postman",
-    "NPM"
-  ],
-
-  currentlyLearning: [
-    "Artificial Intelligence",
-    "Machine Learning"
-  ],
+  tools: ["Git", "GitHub", "VS Code", "Postman"],
 
   motto: "Code • Learn • Build • Repeat 🚀"
-}
+};
+```
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- SQL
+- Git
+- GitHub
+- Python
+- Java
+- C
+- C++
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ateebahmad22&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ateebahmad22&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ateebahmad22&theme=tokyonight)
+
+---
+
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ateebahmad22&theme=tokyo-night)
+
+---
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=ateebahmad22&theme=tokyonight&margin-w=10)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Tech |
+|---------|------|
+| MERN Stack Web App | React, Node.js, Express, MongoDB |
+| Portfolio Website | React |
+| REST API | Node.js, Express |
+| SQL Project | SQL |
+
+---
+
+## 🌐 Connect With Me
+
+- GitHub: https://github.com/ateebahmad22
+- LinkedIn: https://linkedin.com/in/ateebahmad23
+- Email: ateebahmad298@gmail.com
+
+---
+
+> **"Code • Learn • Build • Repeat 🚀"**
