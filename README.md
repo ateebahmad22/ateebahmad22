@@ -1,99 +1,87 @@
 <div align="center">
 
-# 👋 Hi, I'm Ateeb Ahmad
-
-### 🚀 Full Stack Developer | MERN Stack | AI Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FF4B6E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+Something+New" />
-
-<img src="https://komarev.com/ghpvc/?username=ateebahmad22&label=Profile+Views&color=ff4b6e&style=for-the-badge"/>
+<!-- ✨ Animated Banner ✨ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./ateeb-banner.svg?v=1">
+  <source media="(prefers-color-scheme: light)" srcset="./ateeb-banner-light.svg?v=1">
+  <img src="./ateeb-banner.svg?v=1" alt="Ateeb Ahmad — Full Stack Developer" width="100%"/>
+</picture>
 
 </div>
 
----
+<br/>
 
-# 💫 About Me
+<table align="center" border="0">
+<tr>
+<td width="38%" align="center" valign="middle">
 
-💻 Full Stack Developer from India 🇮🇳
+<!-- 🪪 Swinging Lanyard ID Card -->
+<img src="./ateeb-lanyard.svg?v=1" alt="Ateeb Ahmad ID Badge" width="330"/>
 
-⚛️ MERN Stack Developer
+</td>
+<td width="62%" valign="middle">
 
-🤖 Learning AI & Machine Learning
+### 💻 My Projects
 
-🌐 Love Building Modern Websites
+| 🚀 Project | 💻 Tech | ⭐ |
+|:---|:---:|:---:|
+| MERN Stack Web Application | `React` `Node.js` `MongoDB` | ⭐ |
+| REST API Backend | `Node.js` `Express` | ⭐ |
+| Responsive Portfolio | `HTML` `CSS` `JavaScript` | ⭐ |
+| Database Management System | `SQL` `MySQL` | ⭐ |
+| AI & ML Practice Projects | `Python` | ⭐ |
 
-🔥 Passionate about Open Source
+<br/>
 
----
+> 💙 *"Code. Learn. Build. Repeat."*
 
-# 🛠 Tech Stack
+</td>
+</tr>
+</table>
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ateebahmad22&theme=radical&show_icons=true&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ateebahmad22&theme=radical&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ateebahmad22&layout=compact&theme=radical&hide_border=true)
-
----
-
-# 📈 Contribution Graph
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=ateebahmad22&theme=react-dark&hide_border=true)
-
----
-
-# 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ateebahmad22&theme=radical&no-frame=true&row=2&column=4)
-
----
-
-# 🐍 Contribution Snake
-
-![](https://raw.githubusercontent.com/ateebahmad22/ateebahmad22/output/github-contribution-grid-snake-dark.svg)
-
----
-
-# 📫 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ateebahmad23)
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ateebahmad22)
-
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ateebahmad298@gmail.com)
-
----
+<br/>
 
 <div align="center">
 
-## ⭐ "Code. Learn. Build. Repeat."
+### 📊 GitHub Stats & Graphs
+
+<img src="./ateeb-stats.svg?v=1" alt="GitHub Stats" height="185"/>
+<img src="./ateeb-langs.svg?v=1" alt="Top Languages" height="185"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ateebahmad22&theme=radical&hide_border=true&background=170e28&ring=00c6ff&fire=3b82f6&currStreakLabel=60a5fa" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ateebahmad22&bg_color=170e28&color=00c6ff&line=3b82f6&point=60a5fa&area=true&area_color=2563eb&hide_border=true&custom_title=Ateeb%20Ahmad%20Contribution%20Graph" alt="Contribution graph" width="95%"/>
+
+<br/><br/>
+
+<img src="./ateeb-trophies.svg?v=1" alt="GitHub Trophies" width="95%"/>
+
+<br/><br/>
+
+### 🐍 Watch the snake eat my contributions
+
+<img src="https://raw.githubusercontent.com/ateebahmad22/ateebahmad22/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
+
+<br/><br/>
+
+### 📫 Let's Connect
+
+<a href="mailto:ateebahmad298@gmail.com"><img src="https://img.shields.io/badge/Email-00c6ff?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+
+<a href="https://github.com/ateebahmad22"><img src="https://img.shields.io/badge/GitHub-3b82f6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+
+<a href="https://www.linkedin.com/in/ateebahmad23"><img src="https://img.shields.io/badge/LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=ateebahmad22&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
+
+*⭐ Always Learning, Always Building. 💙*
 
 </div>
