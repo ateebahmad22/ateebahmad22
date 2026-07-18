@@ -1,171 +1,99 @@
-<h1 align="center">Hi 👋, I'm Ateeb Ahmad</h1>
+<div align="center">
 
-<h3 align="center">💻 Software Developer | MERN Stack Developer</h3>
+# 👋 Hi, I'm Ateeb Ahmad
 
-<p align="center">
-<a href="https://github.com/ateebahmad22">
-<img src="https://img.shields.io/badge/GitHub-ateebahmad22-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+### 🚀 Full Stack Developer | MERN Stack | AI Enthusiast
 
-<a href="mailto:ateebahmad298@gmail.com">
-<img src="https://img.shields.io/badge/Email-ateebahmad298@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=FF4B6E&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Always+Learning+Something+New" />
 
-<img src="https://komarev.com/ghpvc/?username=ateebahmad22&style=for-the-badge&color=blueviolet"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=ateebahmad22&label=Profile+Views&color=ff4b6e&style=for-the-badge"/>
+
+</div>
 
 ---
 
-# 🚀 About Me
+# 💫 About Me
 
-```javascript
-const ateeb = {
-    name: "Ateeb Ahmad",
-    role: "Software Developer",
-    location: "Varanasi, India",
-    github: "ateebahmad22",
+💻 Full Stack Developer from India 🇮🇳
 
-    frontend: [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "React.js"
-    ],
+⚛️ MERN Stack Developer
 
-    backend: [
-        "Node.js",
-        "Express.js"
-    ],
+🤖 Learning AI & Machine Learning
 
-    database: [
-        "MongoDB",
-        "MySQL",
-        "SQL"
-    ],
+🌐 Love Building Modern Websites
 
-    languages: [
-        "JavaScript",
-        "Python",
-        "Java",
-        "C",
-        "C++"
-    ],
-
-    tools: [
-        "Git",
-        "GitHub",
-        "VS Code",
-        "Postman",
-        "NPM"
-    ],
-
-    learning: [
-        "Artificial Intelligence",
-        "Machine Learning"
-    ],
-
-    motto: "Code • Learn • Build • Repeat 🚀"
-};
-```
+🔥 Passionate about Open Source
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="center">
+### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,git,github,vscode,python,java,c,cpp,npm,postman"/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 
-</p>
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ---
 
 # 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=ateebahmad22&theme=radical&show_icons=true&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ateebahmad22&show_icons=true&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ateebahmad22&theme=radical&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ateebahmad22&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ateebahmad22&theme=tokyonight&hide_border=true"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ateebahmad22&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 # 📈 Contribution Graph
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ateebahmad22&theme=tokyo-night"/>
-
-</p>
+![](https://github-readme-activity-graph.vercel.app/graph?username=ateebahmad22&theme=react-dark&hide_border=true)
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ateebahmad22&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
+![](https://github-profile-trophy.vercel.app/?username=ateebahmad22&theme=radical&no-frame=true&row=2&column=4)
 
 ---
 
-# 💼 Featured Projects
+# 🐍 Contribution Snake
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🚀 MERN Stack Web App | Responsive Full Stack Application | React • Node.js • Express • MongoDB |
-| 🌐 Portfolio Website | Personal Portfolio | React • HTML • CSS |
-| 🔥 REST API | Authentication & CRUD | Node.js • Express |
-| 📊 SQL Project | Database Application | SQL • C++ |
+![](https://raw.githubusercontent.com/ateebahmad22/ateebahmad22/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-# 🌱 Currently Learning
+# 📫 Connect With Me
 
-- Artificial Intelligence
-- Machine Learning
-- Advanced React
-- Backend Architecture
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/ateebahmad23)
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ateebahmad22)
 
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/ateebahmad22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:ateebahmad298@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/ateebahmad23">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</p>
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:ateebahmad298@gmail.com)
 
 ---
 
-# 💬 Quote
+<div align="center">
 
-> **"Code • Learn • Build • Repeat 🚀"**
+## ⭐ "Code. Learn. Build. Repeat."
 
----
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-</p>
+</div>
